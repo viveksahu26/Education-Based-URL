@@ -4,10 +4,10 @@ As name of the project suggests that it is based on Education purpose only. It w
 How to get started, Follow the given below steps :-
 1) Fork the repository (project).
 2) Clone the Project.
-    a) Click on "Code" and copy that url.
-    b) Now, open your Git Bash.
-    c) write "git clone </url>". paste your url in place of url. Press enter button.
-3) Now, create new branch.
+    (a) Click on "Code" and copy that url. <br>
+    (b) Now, open your Git Bash.  <br>
+    (c) write "git clone </url>". paste your url in place of url. Press enter button. <br>
+3) Now, create new branch. <br> 
     a) Write "git branch username". Replace your username with your github username.
     b)Now switch to your branch "git checkout username".
 4) open your source code editor . For ex.- "atom ." // as i have atom as a code editor.
